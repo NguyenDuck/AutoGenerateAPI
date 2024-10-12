@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea001e30-a5a1-4114-b9f1-5886dbb5291a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BlockBehaviorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExampleBlockBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/CollisionBoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/CraftingTableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/CustomComponentsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/DestructibleByExplosionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/DestructibleByMiningTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/DisplayNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/EntityFallOnTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/FlammableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/FrictionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/vn/nguyenduck/duckapi/block/components/GeometryTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ea001e30-a5a1-4114-b9f1-5886dbb5291a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
