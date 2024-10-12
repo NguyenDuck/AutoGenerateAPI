@@ -1,9 +1,10 @@
 package io.vn.nguyenduck.auto_generate_api.block.components;
 
 import io.vn.nguyenduck.auto_generate_api.annotations.Property;
+import io.vn.nguyenduck.auto_generate_api.json.JSONSerializable;
 import org.jetbrains.annotations.Nullable;
 
-public abstract class CollisionBox extends VersionedComponent<CollisionBox> {
+public abstract class CollisionBox extends JSONSerializable {
 
     private boolean hasCollisionBox = true;
     private Number[] size;

@@ -5,7 +5,7 @@ import io.vn.nguyenduck.auto_generate_api.annotations.RequireFormatVersion;
 import io.vn.nguyenduck.auto_generate_api.block.components.*;
 import io.vn.nguyenduck.auto_generate_api.annotations.Prefix;
 import io.vn.nguyenduck.auto_generate_api.annotations.Property;
-import io.vn.nguyenduck.duckapi.block.components.*;
+import io.vn.nguyenduck.auto_generate_api.block.components.*;
 import io.vn.nguyenduck.auto_generate_api.block.description.MenuCategory;
 import io.vn.nguyenduck.auto_generate_api.block.description.States;
 import io.vn.nguyenduck.auto_generate_api.block.description.Traits;
